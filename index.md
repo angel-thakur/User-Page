@@ -14,7 +14,7 @@
 
 ## Background
 
-I am a student at UC San Diego pursuing a bachelor's degree in Computer Science. I have experience programming in Python, Java, and C/C++. I have also prior experience in designing machine learning pipelines, database systems, analysis of efficient programming practices, and computing mentorship. The following is a link to my LinkedIn page for more information on my past projects. 
+I am a student at UC San Diego pursuing a bachelor's degree in Computer Science. I have experience programming in **Python, Java, and C/C++.** I have also prior experience in designing machine learning pipelines, database systems, analysis of efficient programming practices, and computing mentorship. The following is a link to my LinkedIn page for more information on my past projects. 
 
 [**LinkedIn**](https://www.linkedin.com/in/angel-thakur)
 
@@ -52,7 +52,7 @@ To view some of my work with git, see
 
 ## My Programming Interests 
 
-I am currently interested in the creation and development of machine learning models. I enjoy exploring the wide variety of applications for machine learning. Much of my prior experience has gone into using AI for healthcare purposes or for optimizing developer workflows. I am interested in broadening my experience of AI applications and development. The following quote by one of the co-founders of Google Brain, Andrew Ng, is something I resonate with and am eager to expand upon.
+I am currently interested in the **creation and development of machine learning models.** I enjoy exploring the wide variety of applications for machine learning. Much of my prior experience has gone into using AI for healthcare purposes or for optimizing developer workflows. I am interested in broadening my experience of AI applications and development. The following quote by one of the co-founders of Google Brain, Andrew Ng, is something I resonate with and am eager to expand upon.
 > “AI can do anything that we are able to understand and specify. But it’s limited to what we can define and imagine.”
 
 I am also interested in the following:
