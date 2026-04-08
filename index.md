@@ -47,8 +47,7 @@ test_meta.transform = val_transforms
 The following is the confusion matrix for the skin lesion classes we are attempting to identify with our model. The model is still currently under development.
 ![Confusion_Matrix](IMG_9204.png)
 
-To view some of my work with git, see 
-
+I also have experience using git. To view some of my work with git, see [Screenshots](screenshots)
 
 ## My Programming Interests 
 
