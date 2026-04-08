@@ -45,6 +45,8 @@ test_meta.transform = val_transforms
 ```
 
 The following is the confusion matrix for the skin lesion classes we are attempting to identify with our model. The model is still currently under development.
+
+
 ![Confusion_Matrix](IMG_9204.png)
 
 I also have experience using git. To view some of my work with git, see [Screenshots](screenshots)
@@ -53,6 +55,8 @@ I also have experience using git. To view some of my work with git, see [Screens
 
 I am currently interested in the **creation and development of machine learning models.** I enjoy exploring the wide variety of applications for machine learning. Much of my prior experience has gone into using AI for healthcare purposes or for optimizing developer workflows. I am interested in broadening my experience of AI applications and development. The following quote by one of the co-founders of Google Brain, Andrew Ng, is something I resonate with and am eager to expand upon.
 > “AI can do anything that we are able to understand and specify. But it’s limited to what we can define and imagine.”
+
+I also am interested on exploring AI's limitations and how to use it cautiously, ethically, and where it benefits the human condition, not worsen it. 
 
 I am also interested in the following:
 * Backend Systems
